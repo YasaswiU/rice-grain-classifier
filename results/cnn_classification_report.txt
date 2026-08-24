@@ -1,0 +1,13 @@
+CNN Test Accuracy: 0.2000
+
+              precision    recall  f1-score   support
+
+     Arborio       0.00      0.00      0.00      2250
+     Basmati       0.00      0.00      0.00      2250
+      Ipsala       0.00      0.00      0.00      2250
+     Jasmine       0.00      0.00      0.00      2250
+   Karacadag       0.20      1.00      0.33      2250
+
+    accuracy                           0.20     11250
+   macro avg       0.04      0.20      0.07     11250
+weighted avg       0.04      0.20      0.07     11250

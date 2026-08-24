@@ -1,0 +1,13 @@
+VGG16 Test Accuracy: 0.9698
+
+              precision    recall  f1-score   support
+
+     Arborio       1.00      0.88      0.94      2250
+     Basmati       1.00      0.98      0.99      2250
+      Ipsala       0.98      1.00      0.99      2250
+     Jasmine       0.97      0.99      0.98      2250
+   Karacadag       0.92      1.00      0.96      2250
+
+    accuracy                           0.97     11250
+   macro avg       0.97      0.97      0.97     11250
+weighted avg       0.97      0.97      0.97     11250

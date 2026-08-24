@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Trained models
+*.keras
+*.h5
+
+# Dataset
+dataset/
+data/
+
+# Temporary files
+.streamlit_tmp/
+.streamlit/
+
+# IDE
+.vscode/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+
+# Logs
+*.log
