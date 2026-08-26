@@ -5,6 +5,9 @@
 A complete, VS Code-ready deep learning project that classifies images of rice grains into five rice varieties using a custom Convolutional Neural Network (CNN) and a VGG16 transfer-learning model, with a Streamlit web application for interactive predictions.
 
 ---
+### 🚀 Live Demo
+
+[👉 Try the Rice Grain Classifier](https://rice-grain-classifier-ffyyjv3arcthmjhxha8g7b.streamlit.app/)
 
 ## Table of Contents
 
